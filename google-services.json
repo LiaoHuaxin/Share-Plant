@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82568173238",
+    "firebase_url": "https://shareplant-aab26-default-rtdb.firebaseio.com",
+    "project_id": "shareplant-aab26",
+    "storage_bucket": "shareplant-aab26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82568173238:android:78e0201bd5444e25ab3817",
+        "android_client_info": {
+          "package_name": "com.example.share_idea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82568173238-4uam37t6n7209v401sh7hh8kujtpo9e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYlUwqhZfo0aEMzpckvmPubdzK5YQ98E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82568173238-4uam37t6n7209v401sh7hh8kujtpo9e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

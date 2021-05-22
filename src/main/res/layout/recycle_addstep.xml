@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/stepcontent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="13dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+   >
+
+        <TextView
+            android:id="@+id/Add_Article_id"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:textColor="#FFFFFF"
+            android:padding="8dp"
+            android:gravity="center"
+            android:text="1"
+            android:background="@drawable/id" />
+
+        <TextView
+            android:id="@+id/Add_Article_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="TextView"
+            android:padding="8dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/circle20"/>
+    </LinearLayout>
+        <ImageView
+            android:id="@+id/Add_Article_Img"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/ic_baseline_image_24"
+            android:padding="8dp"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            tools:ignore="VectorDrawableCompat"
+            android:background="@drawable/circle20"
+            android:layout_marginTop="5dp"/>
+</LinearLayout>

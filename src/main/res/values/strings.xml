@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Share Plant</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="More">More</string>
+    <string name="look_idea">look at idea</string>
+    <string name="Member">Member</string>
+    <string name="ADD_ARTICLE">Add Idea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Delete">Delete</string>
+    <string name="facebook_app_id">491778935284343</string>
+    <string name="fb_login_protocol_scheme">fb491778935284343</string>
+    <string name="personal_data_set">編輯個人資料</string>
+    <string name="title_activity_user__article">User_Article</string>
+    <string name="title_activity_user_article">User_article</string>
+
+</resources>

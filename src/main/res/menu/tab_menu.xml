@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home_Fragment"
+        android:title="主頁"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/Search_Fragment"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="搜尋" />
+    <item
+        android:id="@+id/Add_Fragment"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title="新增" />
+    <item
+        android:id="@+id/Personal_Fragment"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="個人" />
+
+</menu>
